@@ -27,24 +27,13 @@ Your tasks are stored in localStorage, so they are still there even if you refre
 
 ## Technologies Used
 
-HTML – Creates the layout and input fields
+1) HTML – Creates the layout and input fields
 
-CSS – Styles the app with a clean, responsive design
+2) CSS – Styles the app with a clean, responsive design
 
-JavaScript – Handles adding, checking, deleting tasks and saving data
+3) JavaScript – Handles adding, checking, deleting tasks and saving data
 
- Why This Project
+#### Why This Project
 
 This project is perfect for learning and practicing DOM manipulation, event handling, and localStorage in JavaScript.
 
-
-
-
-
-Perfect bro! 🔥 Here’s a short, clean, user-friendly explanation you can put in your GitHub README so visitors understand your project quickly:
-
-📝 To-Do List
-
-This is a simple and interactive To-Do List web app built using HTML, CSS, and JavaScript.
-It allows users to easily manage daily tasks — you can add new tasks, mark them as completed, or delete them.
-The app uses your browser’s localStorage, so your tasks remain saved even after refreshing or closing the page.
