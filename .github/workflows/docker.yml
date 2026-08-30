@@ -22,7 +22,7 @@ jobs:
       - name: Build and Push Docker image
         uses: docker/build-push-action@v4
         with:
-          context: .
+          context: ./To-Do-List   # adjust if your Dockerfile is inside a folder
           push: true
           tags: |
             ${{ secrets.DOCKER_USERNAME }}/firstdockerproject:latest
