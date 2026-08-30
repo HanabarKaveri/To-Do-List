@@ -21,7 +21,7 @@ jobs:
       - name: Build and Push Docker image
         uses: docker/build-push-action@v7
         with:
-          context: ./To-Do-List
+          context: .
           push: true
           tags: |
             ${{ secrets.DOCKER_USERNAME }}/firstdockerproject:latest
